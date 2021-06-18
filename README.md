@@ -1,8 +1,14 @@
 ### Hi there 👋
 
+## I'm Jeongyeon-park 
+- major in CS ( •̀ ω •́ )✧
 
-- 🌱 I’m currently learning React, Javascript
-- 👯 I'm major in CS
+- ✍(◔◡◔) I’m currently learning React, Javascript
+- ┏ (゜ω゜)=☞ waana be front-end developer 
+
+
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=6bfgw9)](https://solved.ac/6bfgw9/)
 
